@@ -5,18 +5,16 @@
  */
 package comissiontask1;
 
+import javax.swing.JTextArea;
+
 /**
  *
  * @author Dmitry
  */
-public class ComissionTask1 {
+public class Tester {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        MainFrame mf = new MainFrame();
-       mf.setVisible(true);
+    void testStudents(JTextArea TextField) {
+         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
     
 }
